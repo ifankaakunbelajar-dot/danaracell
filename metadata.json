@@ -1,0 +1,6 @@
+{
+  "name": "Danara Cell - Pulsa, E-Wallet & PPOB Otomatis",
+  "description": "Layanan isi ulang pulsa, kuota internet, top-up e-wallet, dan token listrik PLN cepat & terpercaya via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
